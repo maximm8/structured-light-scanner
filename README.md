@@ -23,7 +23,7 @@ Implementation of the structured light algorithm in python using two monochrome 
 ![](docs/yeti_anim1.png)
 
 ### left and right pointclouds
-<img src="docs/yeti_left_00340.png" alt="drawing" width="49%"/><img src="docs/yeti_right_00340.png" alt="drawing" width="49%"/>
+<img src="docs/yeti_left_00340.png" alt="drawing" width="45%"/><img src="docs/yeti_right_00340.png" alt="drawing" width="45%"/>
 
 ### joint pointclouds without texture
 ![](docs/yeti_anim2.png)
