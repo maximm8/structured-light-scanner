@@ -1,0 +1,10 @@
+{
+    "cameras": [
+        0,
+        1
+    ],
+    "exposures": [
+        10000
+    ],
+    "projector": 0
+}
